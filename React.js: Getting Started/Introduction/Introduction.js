@@ -1,3 +1,5 @@
+// You can use this in jsComplete Playground. jscomplete.com/repl
+
 class Button extends React.Component {
 
     handleClick = () => {
