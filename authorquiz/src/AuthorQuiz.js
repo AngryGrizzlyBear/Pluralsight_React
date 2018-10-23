@@ -12,6 +12,13 @@ function Hero() {
     </div>);
 }
 
+function Turn() {
+    return(<div></div>);
+}
+
+function  Continue(){
+    return(<div></div>);
+}
 
 class AuthorQuiz extends Component {
   render() {
